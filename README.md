@@ -7,3 +7,5 @@ cd zmbf
 pip install -r asset/requirements.txt
 python run.py
 ```
+
+gw cuma recode
